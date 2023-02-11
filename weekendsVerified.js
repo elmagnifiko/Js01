@@ -1,6 +1,6 @@
 let day = "jeudi";
 
-if (day == "samedi" || day == "dimanche")
+if (day === "samedi" || day === "dimanche")
 {
     console.log("weekend");
 }
